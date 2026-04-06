@@ -1,5 +1,0 @@
-[build]
-  publish = "."
-  command = ""
-
-# Static app: no framework build step required.
